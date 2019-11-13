@@ -2,7 +2,7 @@
 from random import randint
 
 def winorlose(status): 
-	print("called win or lose", status)
+	print("                        ")
 	print("You", status + "! Would you like to play again?")
 	choice = input("Y / N?")
 	print(choice)
