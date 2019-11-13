@@ -13,6 +13,8 @@ while gameVars.player is False:
 	print("~*~*~*~*~*~*~*~*~*~*~*~*~*~")
 	print("                           ")
 	print("Choose your weapon!\n")
+	print("                           ")
+	print("                           ")
 	player=input("choose rock, paper or scissors: \n")
 
 	# "compare." links the compare page. "compareChoices" links the function
